@@ -1,8 +1,8 @@
-# nodejs typescript template
+# Js & Ts design pattern Library
 
-## Introduction
-The objective of this repository is a template setup for a TypeScript project running on NodeJS
-
+Chaining functions [chain](./src/chain.js)
+JSON callback [jsoncallbacks](./src/jsoncallback.js)
+ 
 ## Installation
 * clone the repository
 * remove repository dependency (break link to this template)
@@ -19,3 +19,10 @@ The objective of this repository is a template setup for a TypeScript project ru
 `npm run test`  perform tests of all the tests suite
 
 * note: Vscode script has been set-up for debugging mocha tests scripts
+
+## other ressources 
+
+https://www.dofactory.com/javascript/design-patterns/command
+
+https://scotch.io/bar-talk/4-javascript-design-patterns-you-should-know
+
